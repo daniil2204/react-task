@@ -1,0 +1,33 @@
+
+
+.single-char {
+    margin: 25px 0 0 25px;
+    display: grid;
+    grid-template-columns: 600px 550px auto;
+    column-gap: 50px;
+    align-items: start;
+    &__img {
+        width: 293px;
+        height: 450px;
+    }
+    &__str {
+        display: block;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 29px;
+    }
+    &__back {
+        justify-self: end;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 24px;
+        &:hover {
+            color: #9F0013;
+        }
+    }
+}
+button{
+    border: none;
+    outline: none;
+    cursor: pointer;
+}

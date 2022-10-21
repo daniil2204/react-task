@@ -1,0 +1,168 @@
+{
+    "chars" : [
+        {
+            "name" : "Luke Skywalker",
+            "id" : 1
+        },
+        {
+            "name" : "C-3PO",
+            "id" : 2
+        },
+        {
+            "name" : "R2-D2",
+            "id" : 3
+        },
+        {
+            "name" : "Darth Vader",
+            "id" : 4
+        },
+        {
+            "name" : "Leia Organa",
+            "id" : 5
+        },
+        {
+            "name" : "Owen Lars",
+            "id" : 6
+        },
+        {
+            "name" : "Beru Whitesun lars",
+            "id" : 7
+        },
+        {
+            "name" : "R5-D4",
+            "id" : 8
+        },
+        {
+            "name" : "Biggs Darklighter",
+            "id" : 9
+        },
+        {
+            "name" : "Obi-Wan Kenobi",
+            "id" : 10
+        },
+        {
+            "name" : "Anakin Skywalker",
+            "id" : 11
+        },
+        {
+            "name" : "Wilhuff Tarkin",
+            "id" : 12
+        },
+        {
+            "name" : "Chewbacca",
+            "id" : 13
+        },
+        {
+            "name" : "Han Solo",
+            "id" : 14
+        },
+        {
+            "name" : "Greedo",
+            "id" : 15
+        },
+        {
+            "name" : "Jabba Desilijic Tiure",
+            "id" : 16
+        },
+        {
+            "name" : "Wedge Antilles",
+            "id" : 17
+        },
+        {
+            "name" : "Wedge Antilles",
+            "id" : 18
+        },
+        {
+            "name" : "Jek Tono Porkins",
+            "id" : 19
+        },
+        {
+            "name" : "Yoda",
+            "id" : 20
+        },
+        {
+            "name" : "Palpatine",
+            "id" : 21
+        },
+        {
+            "name" : "Boba Fett",
+            "id" : 22
+        },
+        {
+            "name" : "IG-88",
+            "id" : 23
+        },
+        {
+            "name" : "Bossk",
+            "id" : 24
+        },
+        {
+            "name" : "Lando Calrissian",
+            "id" : 25
+        },
+        {
+            "name" : "Lobot",
+            "id" : 26
+        },
+        {
+            "name" : "Ackbar",
+            "id" : 27
+        },
+        {
+            "name" : "Mon Mothma",
+            "id" : 28
+        },
+        {
+            "name" : "Arvel Crynyd",
+            "id" : 29
+        },
+        {
+            "name" : "Wicket Systri Warrick",
+            "id" : 30
+        },
+        {
+            "name" : "Nien Nunb",
+            "id" : 31
+        },
+        {
+            "name" : "Qui-Gon Jinn",
+            "id" : 32
+        },
+        {
+            "name" : "Nute Gunray",
+            "id" : 33
+        },
+        {
+            "name" : "Finis Valorum",
+            "id" : 34
+        },
+        {
+            "name" : "Padmé Amidala",
+            "id" : 35
+        },
+        {
+            "name" : "Jar Jar Binks",
+            "id" : 36
+        },
+        {
+            "name" : "Roos Tarpals",
+            "id" : 37
+        },
+        {
+            "name" : "Rugor Nass",
+            "id" : 38
+        },
+        {
+            "name" : "Ric Olié",
+            "id" : 39
+        },
+        {
+            "name" : "Watto",
+            "id" : 40
+        },
+        {
+            "name" : "Sebulba",
+            "id" : 41
+        }
+    ]
+}

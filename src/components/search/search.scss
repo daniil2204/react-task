@@ -1,0 +1,43 @@
+.search{
+    &__input{
+        width: 200px;
+        height: 50px;
+        position: sticky;
+        top: 0;
+    }
+    &__items{
+        display: block;
+        color: #232222;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 29px;
+        &-border{
+            width: 250px;
+            border: 1px solid black;
+        }
+    }
+}
+
+
+a{
+    text-decoration: none;
+}
+
+input{
+    border: none;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 45px;
+    width: 250px;
+    padding-left: 43px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #232222;
+}
+
+input::placeholder{
+    color: #232222;
+}
+
